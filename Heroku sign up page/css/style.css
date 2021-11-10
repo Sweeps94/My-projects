@@ -1,0 +1,158 @@
+body{
+    background-color: #3A2778;
+    background-image: url("../img/header-illustration.png");
+    background-position: center top;
+    background-size: 953px 210px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background-attachment: local;
+}
+.header-logo{
+    width: 150px;
+    height: 42px;
+    display: block;
+    left: 0;
+    top: 20px;
+    background-repeat: no-repeat;
+    background-image: url("../img/logo-horizontal.png");
+    background-size: 150px 42px;
+}
+.login-button{
+    position: absolute;
+    font-size: 14px;
+    right: 20px;
+    top: 15px;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 5px;
+    padding: 11px;
+    margin: 5px;
+    background-color: rgba(0,0,0,0.2);
+    background-size: 11px 16px;
+
+    
+   
+}
+h1{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+    padding: 20px;
+}
+.info{
+    background-color: #F9F9FB;
+    background-image: url("../img/page-illustration.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    padding: 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    }
+hr{
+    height: 1px;
+    background-color: lightgray;
+    border: none;
+}
+
+h2, h3, h4{
+    color: #79589F;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: lighter;
+
+        
+    }
+p{
+    font-family: sans-serif;
+    color: #616667;
+    }
+form{
+    background-color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+    padding: 10px;   
+    box-shadow: 1px 1px 0.1em 0.1em gray;
+    color: #616667;
+    font-family: sans-serif;
+    font-size: small;
+    box-shadow: 0 0 0 1px rgb(89 105 128 / 10%),
+    0 3px 20px 0 rgb(89 105 128 / 15%),
+    0 1px 2px 0 rgb(0 0 0 / 3%)
+}
+label{
+    position: relative;
+    margin-right: 5%;
+    font-size: small;
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 14px;
+
+    
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+
+input, select{
+    color: #616667;
+    border: solid 1px;
+    border-radius: 3px;
+    border-color: rgb(128, 128, 128);
+    width: 100%;
+    height: 40px;
+}
+input:focus{
+    outline-width: 1px;
+    outline-color: #79589F;
+}
+.create_free_account{
+    outline: none;
+    border: none;
+    position: center;
+    font-family: bold, sans-serif;
+    font-weight: bolder;
+    font-size: 10px;
+    width: 100%;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    background-color: #1969CA;
+}
+span{
+    color: red;
+}
+u{
+    color: #1969CA;
+}
+@media only screen and (min-width: 769px){
+    .info{
+        margin: auto;
+        max-width: 790px;
+        padding-left: 30px;
+        padding-top: 30px;
+
+        }
+    
+    
+    form{
+
+        width: 302px;
+        margin-left: 60%;
+        margin-top: -400px;
+        height: 700px;
+        padding: 30px;
+    }
+    p{
+        padding-right: 40%;
+    }
+
+}

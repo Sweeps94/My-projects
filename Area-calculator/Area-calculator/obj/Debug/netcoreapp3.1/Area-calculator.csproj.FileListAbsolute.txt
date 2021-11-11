@@ -1,0 +1,14 @@
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\bin\Debug\netcoreapp3.1\Area-calculator.exe
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\bin\Debug\netcoreapp3.1\Area-calculator.deps.json
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\bin\Debug\netcoreapp3.1\Area-calculator.runtimeconfig.json
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\bin\Debug\netcoreapp3.1\Area-calculator.runtimeconfig.dev.json
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\bin\Debug\netcoreapp3.1\Area-calculator.dll
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\bin\Debug\netcoreapp3.1\Area-calculator.pdb
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.csproj.AssemblyReference.cache
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.AssemblyInfoInputs.cache
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.AssemblyInfo.cs
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.csproj.CoreCompileInputs.cache
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.dll
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.pdb
+C:\Users\jychv\source\repos\Area-calculator\Area-calculator\obj\Debug\netcoreapp3.1\Area-calculator.genruntimeconfig.cache

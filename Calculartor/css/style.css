@@ -1,0 +1,36 @@
+body{
+    background-color: #4E1B8D;
+}
+header{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+.how-to{
+    margin: 0;
+    padding: 10px;
+    padding-bottom: 2px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.calculator{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px gray;
+    font-family: sans-serif;
+}
+.input{
+    border-radius: 5px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+.sum{
+    font-size: 25px;
+    font-family: sans-serif;
+}

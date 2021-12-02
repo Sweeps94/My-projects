@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <title>Calculator</title>
+        <link rel="stylesheet" href="./css/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    </head>
+    <body>
+        <header>Calculator</header>
+        <form class="Calculator">
+            <p class="how-to">Enter both numbers then click desired method.</p>
+            <input type="text" id="fnum" name="fnum" required placeholder="First number">
+            <input type="text" id="snum" name="snum" required placeholder="Second number">
+            <br/>
+            <input type="button" value="+" onclick="add()">
+            <input type="button" value="-" onclick="sub()">
+            <input type="button" value="x" onclick="multi()">
+            <input type="button" value="÷" onclick="div()">
+            <br/>
+            <label for="answer">answer</label>
+            <p id="sum"></p>
+        <script>
+        function add(){
+            var x = parseFloat(document.getElementById("fnum").value);
+            var y = parseFloat(document.getElementById("snum").value);
+            
+            var z = y + x;
+            document.getElementById("sum").innerHTML = z;
+
+        }
+        function sub(){
+            var x = parseFloat(document.getElementById("fnum").value);
+            var y = parseFloat(document.getElementById("snum").value);
+            
+            var z = x - y;
+            document.getElementById("sum").innerHTML = z;
+        }
+        function multi(){
+            var x = parseFloat(document.getElementById("fnum").value);
+            var y = parseFloat(document.getElementById("snum").value);
+            
+            var z = x * y;
+            document.getElementById("sum").innerHTML = z;
+        }
+        function div(){
+            var x = parseFloat(document.getElementById("fnum").value);
+            var y = parseFloat(document.getElementById("snum").value);
+            
+            var z = x / y;
+            document.getElementById("sum").innerHTML = z;
+        }
+        
+        </script>
+
+        </form>
+    </body>
+</html>
